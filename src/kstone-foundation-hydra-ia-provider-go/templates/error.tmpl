@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Error</title>
+</head>
+<body>
+  {{if .challenge}}
+  <h1>404 page not found</h1>
+  <p>
+    {{.error}}
+  </p>
+  {{end}}
+  {{if .grant_scope}}
+  <h1>401</h1>
+  <p>
+    {{.error}}
+  </p>
+  {{end}}
+  {{if .submit}}
+  <h1>401</h1>
+  <p>
+    {{.error}}
+  </p>
+  {{end}}
+  {{if .response_err}}
+  <h1>500</h1>
+  <p>
+    {{.response_err}}
+  </p>
+  {{end}}
+  {{if .read_err}}
+  <p>{{.read_err}}</p>
+  {{end}}
+</body>
+</html>

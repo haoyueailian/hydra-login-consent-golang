@@ -1,0 +1,2266 @@
+2018-10-15 11:28:37 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:5:1: missing return at end of function
+exit status 2 
+ 2018-10-15 11:28:38 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:5:1: missing return at end of function
+exit status 2 
+ 2018-10-15 13:56:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:3:20: expected ';', found '['
+exit status 22018-10-15 13:56:44 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:3:20: syntax error: unexpected [ after top level declaration
+exit status 2 
+ 2018-10-15 13:56:45 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:3:20: syntax error: unexpected [ after top level declaration
+exit status 2 
+ 2018-10-15 13:57:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:7:1: missing return at end of function
+exit status 2 
+ 2018-10-15 13:57:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:7:1: missing return at end of function
+exit status 2 
+ 2018-10-15 13:57:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:11:1: missing return at end of function
+exit status 2 
+ 2018-10-15 13:57:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:11:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:06:16 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:11:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:06:16 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:11:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:09:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:10:43: expected ';', found " + flow + "
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:11:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:11:3: expected '}', found 'EOF'
+exit status 22018-10-15 14:09:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:10:43: syntax error: unexpected literal " + flow + " at end of statement
+exit status 2 
+ 2018-10-15 14:09:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:10:43: syntax error: unexpected literal " + flow + " at end of statement
+exit status 2 
+ 2018-10-15 14:14:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:15:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:14:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:4:2: imported and not used: "net/http"
+.\hydra.go:15:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:15:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:17:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:15:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:17:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:26:09 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:21:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:26:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:21:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:27:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:24:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:27:16 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:24:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:30:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:30:17: response.json undefined (type *http.Response has no field or method json)
+exit status 2 
+ 2018-10-15 14:30:04 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:30:17: response.json undefined (type *http.Response has no field or method json)
+exit status 2 
+ 2018-10-15 14:35:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:26:2: cannot use response (type *http.Response) as type string in return argument
+exit status 2 
+ 2018-10-15 14:35:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:26:2: cannot use response (type *http.Response) as type string in return argument
+exit status 2 
+ 2018-10-15 14:35:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:26:2: not enough arguments to return
+	have ()
+	want (string)
+exit status 2 
+ 2018-10-15 14:36:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:26:2: not enough arguments to return
+	have ()
+	want (string)
+exit status 2 
+ 2018-10-15 14:40:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:2: not enough arguments to return
+	have ()
+	want (string)
+exit status 2 
+ 2018-10-15 14:40:35 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:2: not enough arguments to return
+	have ()
+	want (string)
+exit status 2 
+ 2018-10-15 14:55:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:1: missing return at end of function
+exit status 2 
+ 2018-10-15 14:55:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:38:18 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: res
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:38:18 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: res
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:39:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : hydra.go:4:2: cannot find package "ioutil" in any of:
+	C:\Go\src\ioutil (from $GOROOT)
+	D:\goprojects\src\ioutil (from $GOPATH)
+exit status 1 
+ 2018-10-15 15:39:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : hydra.go:4:2: cannot find package "ioutil" in any of:
+	C:\Go\src\ioutil (from $GOROOT)
+	D:\goprojects\src\ioutil (from $GOPATH)
+exit status 1 
+ 2018-10-15 15:39:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: res
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:39:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: res
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:40:45 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: request
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:40:46 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:25:32: undefined: request
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:40:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:40:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:43:46 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:43:48 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:50:51 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:50:52 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:17: undefined: ioutil
+.\hydra.go:26:2: undefined: res
+.\hydra.go:28:3: undefined: log
+.\hydra.go:30:2: undefined: fmt
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:51:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:8: undefined: resp
+.\hydra.go:27:15: undefined: ioutil
+.\hydra.go:27:30: undefined: resp
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:51:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:8: undefined: resp
+.\hydra.go:27:15: undefined: ioutil
+.\hydra.go:27:30: undefined: resp
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:51:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:27:15: undefined: ioutil
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:51:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:27:15: undefined: ioutil
+.\hydra.go:32:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:52:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:33:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:52:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:33:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:53:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:53:35 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:55:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:55:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 15:56:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:2: cannot use body (type []byte) as type string in return argument
+exit status 2 
+ 2018-10-15 15:56:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:2: cannot use body (type []byte) as type string in return argument
+exit status 2 
+ 2018-10-15 16:44:48 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:32:6: missing function body
+exit status 2 
+ 2018-10-15 16:44:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:32:6: missing function body
+exit status 2 
+ 2018-10-15 16:47:38 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:32:6: missing function body
+exit status 2 
+ 2018-10-15 16:47:39 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:32:6: missing function body
+exit status 2 
+ 2018-10-15 17:25:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:25:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:30:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:3: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:30:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:3: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:41:28 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:52: cannot convert '/' (type untyped number) to type string
+.\hydra.go:34:52: invalid operation: (hydraUrl + "/oauth2/auth/requests/" + flow) + '/' (mismatched types string and rune)
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:41:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:52: cannot convert '/' (type untyped number) to type string
+.\hydra.go:34:52: invalid operation: (hydraUrl + "/oauth2/auth/requests/" + flow) + '/' (mismatched types string and rune)
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:41:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:41:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:44:53 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:36:67: cannot convert body (type string) to type []string
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:44:54 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:36:41: undefined: strings
+.\hydra.go:36:67: cannot convert body (type string) to type []string
+.\hydra.go:42:12: no new variables on left side of :=
+.\hydra.go:42:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:48:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:55:32 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:53: multiple-value json.Marshal() in single-value context
+.\hydra.go:43:12: no new variables on left side of :=
+.\hydra.go:43:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:49:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:55:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:53: multiple-value json.Marshal() in single-value context
+.\hydra.go:43:12: no new variables on left side of :=
+.\hydra.go:43:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:49:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:56:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:10: no new variables on left side of :=
+.\hydra.go:37:10: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:38:24: cannot use body (type string) as type io.Reader in argument to http.Post:
+	string does not implement io.Reader (missing Read method)
+.\hydra.go:44:12: no new variables on left side of :=
+.\hydra.go:44:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:50:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:56:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:10: no new variables on left side of :=
+.\hydra.go:37:10: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:38:24: cannot use body (type string) as type io.Reader in argument to http.Post:
+	string does not implement io.Reader (missing Read method)
+.\hydra.go:44:12: no new variables on left side of :=
+.\hydra.go:44:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:50:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:57:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:24: cannot use body (type string) as type io.Reader in argument to http.Post:
+	string does not implement io.Reader (missing Read method)
+.\hydra.go:44:12: no new variables on left side of :=
+.\hydra.go:44:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:50:1: missing return at end of function
+exit status 2 
+ 2018-10-15 17:57:48 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:24: cannot use body (type string) as type io.Reader in argument to http.Post:
+	string does not implement io.Reader (missing Read method)
+.\hydra.go:44:12: no new variables on left side of :=
+.\hydra.go:44:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:50:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:00:26 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:39:64: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:40:2: expected operand, found 'if'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:40:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:41:19: missing ',' before newline in composite literal
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:42:3: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:44:2: expected operand, found 'defer'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:44:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:44:25: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:45:12: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:45:40: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:46:2: expected operand, found 'if'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:46:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:48:3: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:50:27: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:3: expected ')', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:3: expected '}', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:3: missing ',' in argument list
+exit status 22018-10-15 18:00:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:64: syntax error: unexpected newline, expecting comma or )
+.\hydra.go:40:2: syntax error: unexpected if at end of statement
+.\hydra.go:45:12: no new variables on left side of :=
+exit status 2 
+ 2018-10-15 18:00:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:64: syntax error: unexpected newline, expecting comma or )
+.\hydra.go:40:2: syntax error: unexpected if at end of statement
+.\hydra.go:45:12: no new variables on left side of :=
+exit status 2 
+ 2018-10-15 18:00:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:00:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:01:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:58: cannot use b (type []byte) as type string in argument to strings.NewReader
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:01:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:58: cannot use b (type []byte) as type string in argument to strings.NewReader
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:8:2: imported and not used: "strings"
+.\hydra.go:39:41: undefined: bytes
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:8:2: imported and not used: "strings"
+.\hydra.go:39:41: undefined: bytes
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:12: no new variables on left side of :=
+.\hydra.go:45:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:02:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:40:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:40:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:44:54 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:52:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:44:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:52:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:47:25 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: response
+.\hydra.go:50:16: undefined: client
+.\hydra.go:50:26: undefined: request
+.\hydra.go:51:5: undefined: response
+.\hydra.go:52:29: undefined: response
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:47:26 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: response
+.\hydra.go:50:16: undefined: client
+.\hydra.go:50:26: undefined: request
+.\hydra.go:51:5: undefined: response
+.\hydra.go:52:29: undefined: response
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:47:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:47:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:44:8: undefined: resp
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:44:8: undefined: resp
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:06 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:07 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:50:22: undefined: request
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:50:2: undefined: resp
+.\hydra.go:50:12: undefined: client
+.\hydra.go:51:5: undefined: resp
+.\hydra.go:52:29: undefined: resp
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: undefined: resp
+.\hydra.go:51:21: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:52:5: undefined: resp
+.\hydra.go:53:29: undefined: resp
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: undefined: resp
+.\hydra.go:51:21: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:52:5: undefined: resp
+.\hydra.go:53:29: undefined: resp
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: undefined: resp
+.\hydra.go:51:21: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:52:5: undefined: resp
+.\hydra.go:53:29: undefined: resp
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:48:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: undefined: resp
+.\hydra.go:51:21: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:52:5: undefined: resp
+.\hydra.go:53:29: undefined: resp
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:49:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:49:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:50:35 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:50:36 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:50:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:50:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:53:38 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: cannot use resq (type *http.Response) as type *http.Request in argument to c.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:53:39 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: cannot use resq (type *http.Response) as type *http.Request in argument to c.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:53:44 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 18:53:44 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 19:03:51 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 19:03:51 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:57:1: missing return at end of function
+exit status 2 
+ 2018-10-15 19:04:46 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 19:04:46 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+.\hydra.go:56:1: missing return at end of function
+exit status 2 
+ 2018-10-15 19:05:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+exit status 2 
+ 2018-10-15 19:05:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+exit status 2 
+ 2018-10-15 19:05:24 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+exit status 2 
+ 2018-10-15 19:05:24 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:45:22: cannot use resq (type *http.Response) as type *http.Request in argument to client.Do
+exit status 2 
+ 2018-10-15 19:09:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:2: body_type declared and not used
+.\hydra.go:51:2: bodyP declared and not used
+exit status 2 
+ 2018-10-15 19:09:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:2: body_type declared and not used
+.\hydra.go:51:2: bodyP declared and not used
+exit status 2 
+ 2018-10-15 19:09:25 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: bodyP declared and not used
+exit status 2 
+ 2018-10-15 19:09:26 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:2: bodyP declared and not used
+exit status 2 
+ 2018-10-15 19:21:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:29: undefined: resp
+exit status 2 
+ 2018-10-15 19:21:14 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:25:29: undefined: resp
+exit status 2 
+ 2018-10-16 10:09:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:13:34: use of package bytes without selector
+exit status 2 
+ 2018-10-16 10:09:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:13:34: use of package bytes without selector
+exit status 2 
+ 2018-10-16 10:25:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:46:2: undefined: resq
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:46:2: undefined: resq
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:24 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:46:2: undefined: request
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:24 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:46:2: undefined: request
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:44 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:44 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:23: undefined: resq
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:52 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:23: undefined: request
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:25:52 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:23: undefined: request
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:26:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:26:04 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:8: undefined: resq
+.\hydra.go:54:31: undefined: resq
+exit status 2 
+ 2018-10-16 10:27:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:49:5: undefined: resp
+.\hydra.go:50:29: undefined: resp
+exit status 2 
+ 2018-10-16 10:27:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:49:5: undefined: resp
+.\hydra.go:50:29: undefined: resp
+exit status 2 
+ 2018-10-16 10:27:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:54:12: no new variables on left side of :=
+.\hydra.go:54:12: cannot assign []byte to body (type string) in multiple assignment
+exit status 2 
+ 2018-10-16 10:27:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:54:12: no new variables on left side of :=
+.\hydra.go:54:12: cannot assign []byte to body (type string) in multiple assignment
+exit status 2 
+ 2018-10-16 10:28:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:54:2: bodyP declared and not used
+exit status 2 
+ 2018-10-16 10:28:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:54:2: bodyP declared and not used
+exit status 2 
+ 2018-10-16 10:52:04 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:2: too many arguments to return
+	have ([]byte, error)
+	want (string)
+exit status 2 
+ 2018-10-16 10:52:05 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:34:2: too many arguments to return
+	have ([]byte, error)
+	want (string)
+exit status 2 
+ 2018-10-16 11:27:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:2: undefined: requset
+.\hydra.go:48:27: undefined: requset
+exit status 2 
+ 2018-10-16 11:27:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:47:2: undefined: requset
+.\hydra.go:48:27: undefined: requset
+exit status 2 
+ 2018-10-16 11:28:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:52:29: multiple-value json.Marshal() in single-value context
+exit status 2 
+ 2018-10-16 11:28:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:52:29: multiple-value json.Marshal() in single-value context
+exit status 2 
+ 2018-10-16 11:29:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:25: body_error.error undefined (type []byte has no field or method error)
+exit status 2 
+ 2018-10-16 11:29:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:25: body_error.error undefined (type []byte has no field or method error)
+exit status 2 
+ 2018-10-16 11:29:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:13:43: cannot use _ as value
+.\hydra.go:38:57: cannot use _ as value
+exit status 2 
+ 2018-10-16 11:30:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:13:43: cannot use _ as value
+.\hydra.go:38:57: cannot use _ as value
+exit status 2 
+ 2018-10-16 11:30:14 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:35:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+exit status 2 
+ 2018-10-16 11:30:14 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:35:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+exit status 2 
+ 2018-10-16 13:51:52 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:2: too many arguments to return
+	have ([]byte, error)
+	want ()
+exit status 2 
+ 2018-10-16 13:51:52 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:2: too many arguments to return
+	have ([]byte, error)
+	want ()
+exit status 2 
+ 2018-10-16 13:56:54 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:71:2: too many arguments to return
+	have ([]byte, error)
+	want ()
+.\hydra.go:71:43: undefined: body
+exit status 2 
+ 2018-10-16 13:56:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:71:2: too many arguments to return
+	have ([]byte, error)
+	want ()
+.\hydra.go:71:43: undefined: body
+exit status 2 
+ 2018-10-16 13:57:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:71:43: undefined: body
+exit status 2 
+ 2018-10-16 13:57:18 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:71:43: undefined: body
+exit status 2 
+ 2018-10-16 15:25:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:35:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+.\hydra.go:63:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:75:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 15:25:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:35:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+.\hydra.go:63:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:75:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 15:26:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:75:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 15:26:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:75:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 15:28:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:55:12: no new variables on left side of :=
+.\hydra.go:55:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:60:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+.\hydra.go:60:22: undefined: bodyP
+.\hydra.go:64:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:68:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:72:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:76:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:80:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: too many errors
+exit status 2 
+ 2018-10-16 15:28:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:55:12: no new variables on left side of :=
+.\hydra.go:55:12: cannot assign []byte to body (type string) in multiple assignment
+.\hydra.go:60:2: too many arguments to return
+	have ([]byte, error)
+	want ([]byte)
+.\hydra.go:60:22: undefined: bodyP
+.\hydra.go:64:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:68:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:72:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:76:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:80:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: too many errors
+exit status 2 
+ 2018-10-16 15:29:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:64:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:68:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:72:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:76:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:80:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 15:29:03 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:64:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:68:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:72:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:76:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:80:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+.\hydra.go:84:2: not enough arguments to return
+	have ([]byte)
+	want ([]byte, error)
+exit status 2 
+ 2018-10-16 16:05:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:40:26: r.consent undefined (type Render has no field or method consent)
+exit status 2 
+ 2018-10-16 16:05:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:40:26: r.consent undefined (type Render has no field or method consent)
+exit status 2 
+ 2018-10-16 16:06:06 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:40:26: r.Consent undefined (type Render has no field or method Consent)
+exit status 2 
+ 2018-10-16 16:06:07 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:40:26: r.Consent undefined (type Render has no field or method Consent)
+exit status 2 
+ 2018-10-16 16:07:01 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:44:26: cannot use r.Consent (type func()) as type httprouter.Handle in argument to router.GET
+exit status 2 
+ 2018-10-16 16:07:02 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:44:26: cannot use r.Consent (type func()) as type httprouter.Handle in argument to router.GET
+exit status 2 
+ 2018-10-16 16:24:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:78: expected type, found '.'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:79: missing ',' in parameter list
+exit status 22018-10-16 16:24:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 16:24:43 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 16:34:45 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:78: expected type, found '.'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:79: missing ',' in parameter list
+exit status 22018-10-16 16:34:47 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 16:34:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 16:35:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:78: expected type, found '.'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:27:79: missing ',' in parameter list
+exit status 22018-10-16 16:35:32 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 16:35:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:27:25: syntax error: mixed named and unnamed function parameters
+exit status 2 
+ 2018-10-16 17:33:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:29:2: query declared and not used
+exit status 2 
+ 2018-10-16 17:33:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:29:2: query declared and not used
+exit status 2 
+ 2018-10-16 17:34:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:30:20: query.login_challenge undefined (type string has no field or method login_challenge)
+exit status 2 
+ 2018-10-16 17:34:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:30:20: query.login_challenge undefined (type string has no field or method login_challenge)
+exit status 2 
+ 2018-10-16 17:56:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:30:2: challenge declared and not used
+exit status 2 
+ 2018-10-16 17:56:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:30:2: challenge declared and not used
+exit status 2 
+ 2018-10-16 18:55:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:31:31: expected ';', found '{'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:51:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:51:3: expected '}', found 'EOF'
+exit status 22018-10-16 18:55:28 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:31:31: syntax error: unexpected { at end of statement
+.\main.go:34:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-16 18:55:28 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:31:31: syntax error: unexpected { at end of statement
+.\main.go:34:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-17 09:39:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:31:2: response declared and not used
+exit status 2 
+ 2018-10-17 09:40:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:31:2: response declared and not used
+exit status 2 
+ 2018-10-17 09:43:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-17 09:43:28 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-17 10:44:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-17 10:44:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-18 14:23:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-18 14:23:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:32:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:33:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:33:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+exit status 2 
+ 2018-10-18 14:23:28 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:36:1: expected declaration, found '}'
+exit status 22018-10-18 14:23:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:36:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-18 14:23:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:36:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-18 14:24:06 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\main.go:37:1: expected declaration, found '}'
+exit status 22018-10-18 14:24:07 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:37:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-18 14:24:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:37:1: syntax error: non-declaration statement outside function body
+exit status 2 
+ 2018-10-18 14:24:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:16:3: r.ParseForm undefined (type *Render has no field or method ParseForm)
+exit status 2 
+ 2018-10-18 14:24:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:16:3: r.ParseForm undefined (type *Render has no field or method ParseForm)
+exit status 2 
+ 2018-10-20 13:17:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:17:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:22:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:34: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:22:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:34: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:29:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:61: expected '{', found ')'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:62: expected '}', found newline
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:52:3: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:52:6: expected operand, found '.'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:54:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:54:29: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:55:13: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:55:45: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:56:2: expected operand, found 'if'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:56:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:57:13: missing ',' before newline in composite literal
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:58:3: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:59:14: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:59:38: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:60:2: expected operand, found 'return'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:60:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:60:17: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:61:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:64:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:64:32: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:65:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:68:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:68:48: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:69:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:72:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:72:48: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:73:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:76:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:76:34: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:77:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:80:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:80:50: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:81:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:84:2: missing ',' in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:84:50: missing ',' before newline in argument list
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:1: expected operand, found '}'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected ')', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected ';', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected '}', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: expected '}', found 'EOF'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:85:3: missing ',' in argument list
+exit status 22018-10-20 13:29:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:61: syntax error: unexpected ), expecting {
+.\hydra.go:52:14: syntax error: unexpected (, expecting semicolon or newline or }
+exit status 2 
+ 2018-10-20 13:29:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:61: syntax error: unexpected ), expecting {
+.\hydra.go:52:14: syntax error: unexpected (, expecting semicolon or newline or }
+exit status 2 
+ 2018-10-20 13:29:56 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:41: type map[string]interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:29:57 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:41: type map[string]interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:32:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:41: type interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:32:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:41: type interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:32:53 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:51:42: expected expression
+exit status 22018-10-20 13:32:54 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:42: type interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:32:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:51:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:51:42: type interface {} is not an expression
+.\hydra.go:59:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:59:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:35:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:53:42: expected expression
+exit status 22018-10-20 13:35:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:53:42: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:35:42 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:17: assignment mismatch: 2 variables but 1 values
+.\hydra.go:53:42: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:36:29 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:53:39: expected expression
+exit status 22018-10-20 13:36:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:39: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:36:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:39: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:36:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:38: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:36:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:53:38: type interface {} is not an expression
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:37:31 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:37:32 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:61:14: assignment mismatch: 2 variables but 1 values
+.\hydra.go:61:31: not enough arguments in call to json.Unmarshal
+	have ([]byte)
+	want ([]byte, interface {})
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:37:53 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:37:54 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:39:04 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:1: missing return at end of function
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:39:04 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:1: missing return at end of function
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:40:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:40:24 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:34: resType is not a type
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:01 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:34: resType is not a type
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:15:34: expected ';', found '&'
+D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:19:2: expected declaration, found 'if'
+exit status 22018-10-20 13:41:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:6: missing function body
+.\hydra.go:15:34: syntax error: unexpected & after top level declaration
+exit status 2 
+ 2018-10-20 13:41:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:6: missing function body
+.\hydra.go:15:34: syntax error: unexpected & after top level declaration
+exit status 2 
+ 2018-10-20 13:41:30 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:34: resType is not a type
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:33 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:15:34: resType is not a type
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:48 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:66:12: cannot use Get("login", challenge) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:41:48 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:66:12: cannot use Get("login", challenge) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:10 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:11 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:70:12: cannot use Put("login", "accept", challenge, body) (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:18 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\hydra.go:70:12: cannot use Put("login", "accept", challenge, body) (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\hydra.go:74:12: cannot use Put("login", "reject", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Put("consent", "accept", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:86:12: cannot use Put("consent", "reject", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+.\main.go:51:13: too many errors
+exit status 2 
+ 2018-10-20 13:42:35 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\hydra.go:74:12: cannot use Put("login", "reject", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:78:12: cannot use Get("consent", challenge) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Put("consent", "accept", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\hydra.go:86:12: cannot use Put("consent", "reject", challenge, body) (type map[string]interface {}) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+.\main.go:51:13: too many errors
+exit status 2 
+ 2018-10-20 13:42:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:42:55 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:2: cannot use body_get (type []byte) as type map[string]interface {} in return argument
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:45:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:45:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:45:59 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:1: missing return at end of function
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:1: missing return at end of function
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:2: not enough arguments to return
+	have ()
+	want (map[string]interface {})
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:2: not enough arguments to return
+	have ()
+	want (map[string]interface {})
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:2: cannot use body (type string) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:2: cannot use body (type string) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:9: undefined: body_error
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:46:41 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:63:9: undefined: body_error
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:47:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:29: cannot convert body_put (type error) to type map[string]interface {}
+.\hydra.go:63:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:47:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:29: cannot convert body_put (type error) to type map[string]interface {}
+.\hydra.go:63:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:48:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:13: cannot convert body_put (type error) to type string
+.\hydra.go:63:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:48:22 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:13: cannot convert body_put (type error) to type string
+.\hydra.go:63:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:48:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:48:35 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:1: missing return at end of function
+.\hydra.go:62:2: cannot use body_put (type error) as type map[string]interface {} in return argument
+.\main.go:33:13: response.skip undefined (type map[string]interface {} has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have (map[string]interface {})
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:15 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body (type string) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:27 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body (type string) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:38 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:49:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:62:2: cannot use body_put (type error) as type []byte in return argument
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:54:13 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:26: multiple-value json.Marshal() in single-value context
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:54:14 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:63:26: multiple-value json.Marshal() in single-value context
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:54:23 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:54:25 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:55:07 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ D:\goprojects\src\kstone-foundation-hydra-ia-provider-go\hydra.go:27:21: illegal rune literal
+exit status 22018-10-20 13:55:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:27:21: invalid character literal (more than one character)
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:55:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:27:21: invalid character literal (more than one character)
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:55:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:55:20 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:33:13: response.skip undefined (type []byte has no field or method skip)
+.\main.go:34:3: too many arguments to return
+	have ([]byte)
+	want ()
+.\main.go:34:28: not enough arguments in call to AcceptLoginRequest
+	have (string)
+	want (string, string)
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:56:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 13:56:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:51:13: not enough arguments in call to router.POST
+	have (string)
+	want (string, httprouter.Handle)
+exit status 2 
+ 2018-10-20 14:02:49 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:26:17: too many arguments in call to GetLoginRequest
+	have (string, string)
+	want (string)
+exit status 2 
+ 2018-10-20 14:02:50 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\main.go:26:17: too many arguments in call to GetLoginRequest
+	have (string, string)
+	want (string)
+exit status 2 
+ 2018-10-20 14:28:09 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:28:20: cannot refer to unexported name json.unMarshal
+.\hydra.go:28:20: undefined: json.unMarshal
+exit status 2 
+ 2018-10-20 14:28:12 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:28:20: cannot refer to unexported name json.unMarshal
+.\hydra.go:28:20: undefined: json.unMarshal
+exit status 2 
+ 2018-10-20 14:31:08 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:17: cannot refer to unexported name json.unmarshal
+.\hydra.go:37:17: undefined: json.unmarshal
+exit status 2 
+ 2018-10-20 14:31:09 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:17: cannot refer to unexported name json.unmarshal
+.\hydra.go:37:17: undefined: json.unmarshal
+exit status 2 
+ 2018-10-20 14:31:19 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:16: cannot refer to unexported name json.unmarshal
+.\hydra.go:37:16: undefined: json.unmarshal
+.\hydra.go:38:9: undefined: body_get
+exit status 2 
+ 2018-10-20 14:31:21 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:37:16: cannot refer to unexported name json.unmarshal
+.\hydra.go:37:16: undefined: json.unmarshal
+.\hydra.go:38:9: undefined: body_get
+exit status 2 
+ 2018-10-20 14:31:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:9: undefined: body_get
+exit status 2 
+ 2018-10-20 14:31:34 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:38:9: undefined: body_get
+exit status 2 
+ 2018-10-20 14:32:00 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:2: cannot use res (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:01 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:39:2: cannot use res (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:70:12: cannot use Get("login", challenge) (type []map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:17 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:70:12: cannot use Get("login", challenge) (type []map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:38 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : there are some errors in 
+ # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:70:12: cannot use Get("login", challenge) (type []map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 22018-10-20 14:32:39 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:70:12: cannot use Get("login", challenge) (type []map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:40 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:70:12: cannot use Get("login", challenge) (type []map[string]interface {}) as type []byte in return argument
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:57 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 2018-10-20 14:32:58 D:\GOPROJECTS\SRC\KSTONE-FOUNDATION-HYDRA-IA-PROVIDER-GO : # kstone-foundation-hydra-ia-provider-go
+.\hydra.go:82:12: cannot use Get("consent", challenge) (type []map[string]interface {}) as type []byte in return argument
+exit status 2 
+ 

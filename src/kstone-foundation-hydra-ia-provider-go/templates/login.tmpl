@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="./static/css/style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+    <div class="login-content">
+        <h1 class="login-title">
+          登录
+        </h1>
+        
+        <form action="/login" method="POST" class="form">
+          <input type="hidden" name="_csrf" value={{.csrfToken}} />
+          <input type="hidden" name="challenge" value={{.challenge}} />
+          <input type="hidden" name="skip" value={{.skip}} />
+          <div class="login-input-div">
+              {{if .error}}
+              <p class="login-error" style="color: red">{{.error}}</p>
+              {{end}}
+            <input type="email" class="login-input" placeholder="chen@163.com" name="username" id="username" />
+          </div>
+          <div class="login-input-div">
+            <input type="password" class="login-input" name="password" id="password" />
+          </div>
+          <div class="login-input-div">
+            <input type="checkbox" name="remember" id="remember" />
+            <label for="remember">记住密码</label>
+          </div>
+          <div class="login-input-div">
+            <input type="submit" value="登录" class="login-btn"/>
+          </div>
+        </form>
+      </div>
+  </body>
+</html>

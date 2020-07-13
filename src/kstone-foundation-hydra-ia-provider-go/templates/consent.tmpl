@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome!</title>
+</head>
+<body>
+    <p>
+        Hi, application wants access resources on your behalf and to:
+    </p>
+    <form action="" method="POST">
+        <input type="hidden" name="challenge" value={{.challenge}} />
+        <input type="hidden" name="_csrf" value={{.csrfToken}} />
+        <!-- <input type="hidden" name="grant_scope" value={{.grant_scope}} /> -->
+        {{range .requested_scope}}
+        <div>
+            <input type="checkbox" id={{.}} value={{.}} name="grant_scope" />
+            <label for={{.}}>{{.}}</label>
+        </div>
+        {{end}}
+        <!-- <div>
+            <input type="checkbox" id="openid" value="openid" name="grant_scope" />
+            <label for="openid">openid</label>
+        </div> -->
+        <p>
+            <input type="checkbox" id="remember" value="remember" name="remember" />
+            <label for="remember">Do not ask me again</label>
+        </p>
+        <p>
+            <input type="submit" value="Allow access" name="submit" />
+            <input type="submit" value="Deny access" name="submit" />
+        </p>
+    </form>
+    
+</body>
+</html>

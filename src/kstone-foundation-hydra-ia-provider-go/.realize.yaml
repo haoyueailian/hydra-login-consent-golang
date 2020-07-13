@@ -1,0 +1,46 @@
+settings:
+  files:
+    outputs:
+      status: true
+      path: ""
+      name: .r.outputs.log
+    logs:
+      status: true
+      path: ""
+      name: .r.logs.log
+    errors:
+      status: true
+      path: ""
+      name: .r.errors.log
+  legacy:
+    force: false
+    interval: 0s
+schema:
+- name: D:\goprojects\src\kstone-foundation-hydra-ia-provider-go
+  path: D:\goprojects\src\kstone-foundation-hydra-ia-provider-go
+  commands:
+    clean:
+      status: true
+    fmt:
+      status: true
+    test:
+      status: true
+    generate:
+      status: true
+    install:
+      status: true
+    build:
+      status: true
+    run:
+      status: true
+  watcher:
+    extensions:
+    - go
+    - tmpl
+    - css
+    paths:
+    - /
+    ignored_paths:
+    - .git
+    - .realize
+    - vendor
